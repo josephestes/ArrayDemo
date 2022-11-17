@@ -11,7 +11,7 @@ using static System.Console;
 
 namespace ArrayDemo
 {
-    internal class ArrayDemo
+    internal class Program
     {
         static void Main(string[] args)
         {
