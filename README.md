@@ -2,7 +2,7 @@
 
 This program displays the contents of an array per the user's choice.
 
-### Program Guidelines
+### Program Logic
 
 - Store an array of these 10 integers: (7, 6, 3, 2, 10, 8, 4, 5, 9, 1)
 - Until the user enters a sentinel value, allow the user four options:
