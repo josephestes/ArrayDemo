@@ -2,6 +2,29 @@
 
 This program displays the contents of an array per the user's choice.
 
+## Usage/Examples
+
+```
+Please enter one of the following options:
+(1) to view the list in original order.
+(2) to view the list in reverse order.
+(3) to choose a specific position to view.
+(4) to quit the application.
+
+1
+View list in original order:   7   6   3   2  10   8   4   5   9   1
+
+Please enter one of the following options:
+(1) to view the list in original order.
+(2) to view the list in reverse order.
+(3) to choose a specific position to view.
+(4) to quit the application.
+
+4
+
+Press any key to close this window . . .
+```
+
 ### Program Logic
 
 - Store an array of these 10 integers: (7, 6, 3, 2, 10, 8, 4, 5, 9, 1)
