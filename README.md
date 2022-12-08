@@ -9,7 +9,9 @@ This program allows the user to view an array of 10 integers in different orders
 - Choose a specific position to view.
 - Quit the application.
 
-## Usage/Examples
+## Example
+
+Here is an example of the program in action:
 
 ```
 Please enter one of the following options:
@@ -51,4 +53,3 @@ Please enter one of the following options:
 
 Press any key to close this window . . .
 ```
-
